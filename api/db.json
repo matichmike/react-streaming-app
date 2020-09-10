@@ -1,9 +1,32 @@
 {
   "streams": [
     {
-      "title": "stream1",
-      "description": "stream2",
+      "title": "Nier Automata",
+      "description": "Best game of all time",
       "id": 1
+    },
+    {
+      "title": "Ocarina of time",
+      "description": "Second best game of all time",
+      "id": 2
+    },
+    {
+      "title": "Bloodborne",
+      "description": "wow....",
+      "userId": "110951798763963665241",
+      "id": 3
+    },
+    {
+      "title": "Bloodborne",
+      "description": "wow....",
+      "userId": "110951798763963665241",
+      "id": 4
+    },
+    {
+      "title": "Bloodborne",
+      "description": "wow....",
+      "userId": "110951798763963665241",
+      "id": 5
     }
   ]
 }
