@@ -21,7 +21,6 @@ Streaming App tool that uses OBS, Google OAuth and RTMP server with API backend 
 * npm start in /client
 * run http://localhost:3000/ in browser
 * use the following settings in OBS with an Id of a stream
-<br/>
 !["OBS"](https://github.com/matichmike/react-streaming-app/blob/master/screenshots/obs.png?raw=true)
 <br/>
 
